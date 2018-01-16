@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=SC, L=Chengdu, O=vpn01.adbridgehq.com, OU=opsteam, CN=vpn01.adbridgehq.com CA/name=server/emailAddress=ops@adbridgehq.com
+        Validity
+            Not Before: Dec 22 06:41:49 2017 GMT
+            Not After : Dec 20 06:41:49 2027 GMT
+        Subject: C=CN, ST=SC, L=Chengdu, O=vpn01.adbridgehq.com, OU=opsteam, CN=server/name=server/emailAddress=ops@adbridgehq.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cc:28:fa:05:8f:95:6f:06:22:5d:51:5e:e3:35:
+                    4b:4f:35:cb:bb:87:70:9e:60:54:d5:79:1d:99:63:
+                    10:c9:96:6b:34:cd:68:78:2f:71:ee:a4:9c:4d:1e:
+                    ce:ae:49:21:db:94:e2:a5:2b:c4:5d:68:f1:ff:0c:
+                    2c:a1:94:33:be:79:89:2e:a3:05:a1:46:1a:ac:1b:
+                    5a:b6:01:d9:27:5d:99:a8:96:4f:dd:47:ef:28:d0:
+                    22:11:42:80:0f:32:72:13:cf:65:3f:7c:bf:f5:d4:
+                    0c:45:7e:cb:d6:5a:7b:03:93:77:c8:69:87:74:3b:
+                    ba:7e:b9:2b:05:7b:c1:cb:a5:89:44:d4:74:66:49:
+                    ef:3b:23:a8:d8:55:fe:ea:c6:84:6e:48:e3:17:94:
+                    95:07:5d:38:00:3e:86:e4:a2:e3:d6:c9:c1:05:c8:
+                    87:25:54:9d:e2:aa:4e:99:c9:08:a0:58:33:35:6e:
+                    57:e4:47:00:38:9e:3f:d6:9b:89:af:eb:a7:c1:5f:
+                    80:48:e2:c1:da:9a:5c:f5:81:88:25:cb:45:bb:7f:
+                    5b:32:4b:bb:f7:fd:d3:c1:2f:25:17:62:a7:c0:b4:
+                    65:f5:53:48:62:87:3d:ee:80:d2:89:00:20:32:25:
+                    8f:7c:ba:d2:de:db:9c:04:5e:7b:88:78:3f:d2:9c:
+                    9f:d9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                EB:B9:3A:1B:40:CE:22:6D:B7:C6:12:BC:70:E1:86:CC:0E:B4:CC:DA
+            X509v3 Authority Key Identifier: 
+                keyid:F6:53:08:32:33:38:68:6E:92:64:CB:4B:8C:99:C7:B9:9E:63:4E:17
+                DirName:/C=CN/ST=SC/L=Chengdu/O=vpn01.adbridgehq.com/OU=opsteam/CN=vpn01.adbridgehq.com CA/name=server/emailAddress=ops@adbridgehq.com
+                serial:82:2F:0E:B7:E6:38:23:A0
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+         0d:58:86:2b:db:1a:02:00:ef:75:93:09:07:04:23:66:50:21:
+         2a:25:95:eb:ee:9c:83:cf:f1:71:23:f3:64:06:03:f9:bc:e1:
+         28:39:9d:e7:f0:a8:b9:86:9e:01:75:e8:d6:22:15:02:42:df:
+         ba:0e:b7:0a:d2:5a:79:68:3d:db:f3:51:86:a7:81:53:84:8c:
+         07:76:05:69:18:7d:e7:9b:06:72:53:28:c4:f2:ea:73:16:6a:
+         7c:a8:7d:5f:2a:48:2c:f3:d0:06:9e:90:ef:11:d0:63:9a:7c:
+         62:f6:1d:e2:3c:6d:b8:7f:95:03:f1:e9:6f:41:3d:e8:8c:50:
+         81:ce:cc:f3:14:c9:07:1e:17:c2:eb:22:6d:9d:51:13:b7:ef:
+         bf:06:cb:8e:8a:5d:44:0e:31:77:bd:b5:85:f3:8a:2b:3f:b1:
+         e6:be:53:c8:b8:82:4d:fc:f5:64:a4:b5:8a:fa:3a:1a:3a:38:
+         6e:7b:72:3b:21:ad:ec:48:a4:1d:88:ae:ab:14:67:19:57:85:
+         04:f5:e8:2d:9e:d7:e2:bb:89:7f:52:72:52:2d:90:35:d4:d8:
+         38:2a:85:e6:91:90:05:19:3d:cb:7e:e7:43:69:57:f1:01:83:
+         93:61:8e:41:df:60:92:8d:3e:a1:07:27:f7:ee:8a:16:b4:bd:
+         c0:21:af:7b
+-----BEGIN CERTIFICATE-----
+MIIFazCCBFOgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBszELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAlNDMRAwDgYDVQQHEwdDaGVuZ2R1MR0wGwYDVQQKExR2cG4wMS5h
+ZGJyaWRnZWhxLmNvbTEQMA4GA1UECxMHb3BzdGVhbTEgMB4GA1UEAxMXdnBuMDEu
+YWRicmlkZ2VocS5jb20gQ0ExDzANBgNVBCkTBnNlcnZlcjEhMB8GCSqGSIb3DQEJ
+ARYSb3BzQGFkYnJpZGdlaHEuY29tMB4XDTE3MTIyMjA2NDE0OVoXDTI3MTIyMDA2
+NDE0OVowgaIxCzAJBgNVBAYTAkNOMQswCQYDVQQIEwJTQzEQMA4GA1UEBxMHQ2hl
+bmdkdTEdMBsGA1UEChMUdnBuMDEuYWRicmlkZ2VocS5jb20xEDAOBgNVBAsTB29w
+c3RlYW0xDzANBgNVBAMTBnNlcnZlcjEPMA0GA1UEKRMGc2VydmVyMSEwHwYJKoZI
+hvcNAQkBFhJvcHNAYWRicmlkZ2VocS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDMKPoFj5VvBiJdUV7jNUtPNcu7h3CeYFTVeR2ZYxDJlms0zWh4
+L3HupJxNHs6uSSHblOKlK8RdaPH/DCyhlDO+eYkuowWhRhqsG1q2AdknXZmolk/d
+R+8o0CIRQoAPMnITz2U/fL/11AxFfsvWWnsDk3fIaYd0O7p+uSsFe8HLpYlE1HRm
+Se87I6jYVf7qxoRuSOMXlJUHXTgAPobkouPWycEFyIclVJ3iqk6ZyQigWDM1blfk
+RwA4nj/Wm4mv66fBX4BI4sHamlz1gYgly0W7f1syS7v3/dPBLyUXYqfAtGX1U0hi
+hz3ugNKJACAyJY98utLe25wEXnuIeD/SnJ/ZAgMBAAGjggGXMIIBkzAJBgNVHRME
+AjAAMBEGCWCGSAGG+EIBAQQEAwIGQDA0BglghkgBhvhCAQ0EJxYlRWFzeS1SU0Eg
+R2VuZXJhdGVkIFNlcnZlciBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQU67k6G0DOIm23
+xhK8cOGGzA60zNowgegGA1UdIwSB4DCB3YAU9lMIMjM4aG6SZMtLjJnHuZ5jTheh
+gbmkgbYwgbMxCzAJBgNVBAYTAkNOMQswCQYDVQQIEwJTQzEQMA4GA1UEBxMHQ2hl
+bmdkdTEdMBsGA1UEChMUdnBuMDEuYWRicmlkZ2VocS5jb20xEDAOBgNVBAsTB29w
+c3RlYW0xIDAeBgNVBAMTF3ZwbjAxLmFkYnJpZGdlaHEuY29tIENBMQ8wDQYDVQQp
+EwZzZXJ2ZXIxITAfBgkqhkiG9w0BCQEWEm9wc0BhZGJyaWRnZWhxLmNvbYIJAIIv
+DrfmOCOgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDARBgNVHREE
+CjAIggZzZXJ2ZXIwDQYJKoZIhvcNAQELBQADggEBAA1YhivbGgIA73WTCQcEI2ZQ
+ISollevunIPP8XEj82QGA/m84Sg5nefwqLmGngF16NYiFQJC37oOtwrSWnloPdvz
+UYangVOEjAd2BWkYfeebBnJTKMTy6nMWanyofV8qSCzz0AaekO8R0GOafGL2HeI8
+bbh/lQPx6W9BPeiMUIHOzPMUyQceF8LrIm2dURO3778Gy46KXUQOMXe9tYXziis/
+sea+U8i4gk389WSktYr6Oho6OG57cjshrexIpB2IrqsUZxlXhQT16C2e1+K7iX9S
+clItkDXU2DgqheaRkAUZPct+50NpV/EBg5NhjkHfYJKNPqEHJ/fuiha0vcAhr3s=
+-----END CERTIFICATE-----
